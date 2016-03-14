@@ -1,1 +1,1 @@
-Detta är ett test av github. Av Daneil.
+Detta är ett test av github. Av Daniel.
